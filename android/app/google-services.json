@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402019442054",
+    "project_id": "barcodeflutter-b9d01",
+    "storage_bucket": "barcodeflutter-b9d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402019442054:android:faccf85b79dca1ac682007",
+        "android_client_info": {
+          "package_name": "com.example.hash_tag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402019442054-p803ikln64dk4a798omotum52tak4vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqkHT3tFiWKCo6C_hvuhBbuOSkyQYL7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402019442054-p803ikln64dk4a798omotum52tak4vs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
